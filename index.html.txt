@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title> Benjy's HTML Bio</title>
+</head>
+
+<h1><strong>This is Benjy Manning's Bio Page</strong></h1>
+
+
+<body>
+  <section>
+    <img src="http://lorempixel.com/output/people-h-c-232-300-6.jpg" 
+    data-deferred="1" class="rg_i Q4LuWd" jsname="Q4LuWd" width="500" height="507" alt="placeholder for image of benjy manning" data-iml="1083.800000011921" data-atf="true">
+   </section>
+
+   <p>
+    <p>I resisde on the westside of Cleveland, Ohio, working in commercial banking</p></a>
+</p>
+</body>
+
+</html>
